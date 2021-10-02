@@ -135,5 +135,5 @@ class bank:
 		else:
 			_=system('clear')
 
-sidhu=bank('Siddhant','sector-8','kjhkgiukg','a@gmail.com','1234')
+sidhu=bank('Siddhant','sector-8','9966554488','a@gmail.com','1234')
 sidhu.initial()
