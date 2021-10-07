@@ -24,7 +24,7 @@ class bank:
 		elif choice==3:
 			self.new()
 		else:
-			print("you have entered something wrong \n")
+			print("you h \n")
 			self.initial()
 
 	def login(self):
