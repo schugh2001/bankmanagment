@@ -14,7 +14,6 @@ class bank:
 		self.password=password
 	def initial(self):
 		print('press 1 for login')
-		print('press 2 for Transactions')
 		print('press 3 for Becoming a new member')
 		choice=int(input())
 		if choice==1:
