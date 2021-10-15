@@ -64,7 +64,7 @@ class bank:
 			self.update()
 
 		if up=='address':
-			print('ENTER NEW address')
+			print('ENTER NEW Address')
 			address=input().lower()
 			self.address=address
 			self.update()
@@ -134,5 +134,5 @@ class bank:
 		else:
 			_=system('clear')
 
-sidhu=bank('Siddhant','sector-8','9966554488','a@gmail.com','1234')
+sidhu=bank('Siddhant','sector-8','9966554488','abc@gmail.com','1234')
 sidhu.initial()
